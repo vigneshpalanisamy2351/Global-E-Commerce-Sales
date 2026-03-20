@@ -30,3 +30,16 @@ The business is highly dependent on individual consumers. Diversifying focus tow
 **6.Data Engineering & Dashboard Design** Custom Measures: Created using DAX (Total Sales, Profit, Order Count), Interactive Filters: Slicers for Year, Profit Status, Payment Mode,Visual Design: KPI cards, maps, bar charts, and donut charts
 
 The dashboard acts as a single source of truth, enabling quick and data-driven decision-making for business stakeholders.
+## 📊 Key Performance Metrics
+
+* **Total Sales:** 479.95K  
+  - This represents the overall revenue generated from all transactions  
+  - It is calculated by adding all sales values using the SUM of Sales  
+
+* **Total Orders:** 2K  
+  - This indicates the total number of transactions/orders placed by customers  
+
+* **Insight:**  
+  - Strong revenue combined with a healthy profit margin indicates an efficient sales strategy  
+  - The business maintains profitability while scaling order volume  
+  - Suggests good cost control and pricing optimization  
