@@ -2,12 +2,12 @@
 This project will tells the sales of Global E-Commerence 
 Global E-Commerence Analysis Dataset is [E-Commerence](https://github.com/vigneshpalanisamy2351/Global-E-Commerce-Sales/blob/main/global_ecommerce_sales.csv)
 
-<img width="1295" height="728" alt="Global E-commerence Sales" src="https://github.com/user-attachments/assets/a02dba25-a9cb-47e1-887e-f2c892d7ce0a" />
+<img width="1358" height="754" alt="Screenshot 2026-03-20 140732" src="https://github.com/user-attachments/assets/6ccc7575-6326-449e-a3cf-965ec3f50d31" />
+
 
 ---
 
 **1.Key Performance Metrics:** Total Sales:(479.95K)This represents the overall revenue generated from all transactions ,It is calculated by adding all sales 
-
 values using the SUM of Sales.Total Orders: 2K This indicates the total number of transactions/orders placed by customers.Strong revenue combined with a healthy profit margin indicates an efficient sales strategy. The business is maintaining profitability while scaling order volume, suggesting good cost control and pricing optimization.
 
 ---
