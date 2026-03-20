@@ -6,7 +6,7 @@ Global E-Commerence Analysis Dataset is [E-Commerence](https://github.com/vignes
 
 ---
 
-**1.Key Performance Metrics** *Total Sales:(479.95K)This represents the overall revenue generated from all transactions  *It is calculated by adding all sales values using the SUM of Sales.Total Orders: 2K This indicates the total number of transactions/orders placed by customers.Strong revenue combined with a healthy profit margin indicates an efficient sales strategy. The business is maintaining profitability while scaling order volume, suggesting good cost control and pricing optimization.
+**1.Key Performance Metrics** * Total Sales:(479.95K)This represents the overall revenue generated from all transactions  *It is calculated by adding all sales values using the SUM of Sales.Total Orders: 2K This indicates the total number of transactions/orders placed by customers.Strong revenue combined with a healthy profit margin indicates an efficient sales strategy. The business is maintaining profitability while scaling order volume, suggesting good cost control and pricing optimization.
 
 ---
 
